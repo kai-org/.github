@@ -1,0 +1,8 @@
+{
+    "name": "Kai Organization Workflow",
+    "description": "Kai Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "JavaScript"
+    ]
+}
